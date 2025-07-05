@@ -4,9 +4,6 @@
 
 ## Point-LIO: Robust High-Bandwidth Lidar-Inertial Odometry
 
-## Branch: RM25_SMBU_auto_sentry
-
-- Feats: Prior pcd map input
 
 ## 1. Introduction
 
